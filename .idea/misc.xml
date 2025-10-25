@@ -4,5 +4,5 @@
     <option name="sdkName" value="Python 3.13 (django-rest-demo-bugbytes)" />
   </component>
   <component name="KubernetesApiProvider">{}</component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (django-rest-demo-bugbytes)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at ~/Documents/boot_things/bookbot/.venv" project-jdk-type="Python SDK" />
 </project>
